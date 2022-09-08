@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Liberty VPN</string>
+    <string name="app_name">VPNalpha</string>
     <string name="connection_close_confirm">Would you like to cancel the current VPN Connection?</string>
     <string name="help">Faq</string>
     <string name="no">NO</string>
@@ -21,7 +21,7 @@
     <string name="app_version_text" translatable="false">Version 1.0.0</string>
     <string name="about_app_text" translatable="false">You are using Liberty VPN build v1.0.0, Enjoy unlimited bandwidth with stable connection and a lot of servers to choose from. No limits, No restrictions</string>
 
-    <string name="app_name_premium">Liberty VPN Premium</string>
+    <string name="app_name_premium">VPNalpha Premium</string>
     <string name="privacy_policy_title" translatable="false">Privacy Policy</string>
     <string name="unlimited_text">Unlimited</string>
     <string name="secure_text">Secure</string>
@@ -82,13 +82,13 @@
     <string-array name="faq_questions">
         <item>Why I need a VPN?</item>
         <item>Is it safe?</item>
-        <item>How to use Liberty VPN?</item>
-        <item>How to disconnect Liberty VPN?</item>
+        <item>How to use VPNalpha?</item>
+        <item>How to disconnect VPNalpha?</item>
         <item>Can\’t connect, not stable or speed is slow.</item>
         <item>How to switch server location?</item>
         <item>Can\’t find the server you want?</item>
         <item>Why can\'t I use Internet after connection established?</item>
-        <item>How to disable battery optimization for Liberty VPN?</item>
+        <item>How to disable battery optimization for VPNalpha?</item>
         <item>How to cancel the subscription in Google play?</item>
         <item>Can I get refund?</item>
     </string-array>
@@ -125,7 +125,7 @@
     <string name="facebook_interstitial_id">Your Facebook Interstitial Ad Id</string>
     <string name="facebook_native_banner_id">Your Facebook Native Banner Ad Id</string>
 
-    <string name="developers_email" translatable="false">your_developer_email</string>
+    <string name="developers_email" translatable="false">alpharaysofficial@gmail.com</string>
     <string name="privacy_policy_link" translatable="false">https://www.google.com</string>
 
     <!--Fields needed to be replaced by user-->

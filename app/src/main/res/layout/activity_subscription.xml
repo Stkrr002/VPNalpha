@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.liberty.apps.studio.libertyvpn.view.activites.SubscriptionActivity">
+    tools:context="com.alpharays.apps.studio.vpnalpha.view.activites.SubscriptionActivity">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"

@@ -122,7 +122,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/change_server_ad_block">
 
-        <com.liberty.apps.studio.libertyvpn.widget.EmptyRecyclerView
+        <com.alpharays.apps.studio.vpnalpha.widget.EmptyRecyclerView
             android:id="@+id/recyclerview"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

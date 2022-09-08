@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.liberty.apps.studio.libertyvpn">
+    package="com.alpharays.apps.studio.vpnalpha">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -18,7 +18,7 @@
         android:theme="@style/AppTheme"
         tools:replace="android:extractNativeLibs">
         <activity
-            android:name=".view.activites.SplashActivity"
+            android:name="com.alpharays.apps.studio.vpnalpha.view.activites.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,15 +27,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.activites.ChangeServerActivity"
+            android:name="com.alpharays.apps.studio.vpnalpha.view.activites.ChangeServerActivity"
             android:exported="false" />
         <activity
-            android:name=".view.activites.SubscriptionActivity"
+            android:name="com.alpharays.apps.studio.vpnalpha.view.activites.SubscriptionActivity"
             android:exported="false" />
-        <activity android:name=".view.activites.faq_activity" />
-        <activity android:name=".view.activites.loadingWebData" />
+        <activity android:name="com.alpharays.apps.studio.vpnalpha.view.activites.faq_activity" />
+        <activity android:name="com.alpharays.apps.studio.vpnalpha.view.activites.loadingWebData" />
         <activity
-            android:name=".view.activites.ControllerActivity"
+            android:name="com.alpharays.apps.studio.vpnalpha.view.activites.ControllerActivity"
             android:exported="true">
 
         </activity>

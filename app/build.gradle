@@ -12,7 +12,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        applicationId 'com.liberty.apps.studio.libertyvpn'
+        applicationId 'com.alpharays.apps.studio.vpnalpha'
         multiDexEnabled true
         buildConfigField("String", "VPN_GATE_API", "\"http://www.vpngate.net/api/iphone/\"")
     }

@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.liberty.apps.studio.libertyvpn.view.fragments.HomeFragment"
+        android:name="com.alpharays.apps.studio.vpnalpha.view.fragments.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/menuFragment"
-        android:name="com.liberty.apps.studio.libertyvpn.view.fragments.MenuFragment"
+        android:name="com.alpharays.apps.studio.vpnalpha.view.fragments.MenuFragment"
         android:label="fragment_menu"
         tools:layout="@layout/fragment_menu" />
 </navigation>
