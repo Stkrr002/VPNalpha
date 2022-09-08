@@ -12,14 +12,17 @@ import android.widget.LinearLayout
 import android.widget.RelativeLayout
 import android.widget.TextView
 import androidx.fragment.app.Fragment
-import com.facebook.ads.*
+
 import com.google.android.gms.ads.AdRequest
 import com.alpharays.apps.studio.vpnalpha.AppSettings
+import com.alpharays.apps.studio.vpnalpha.R
 import com.alpharays.apps.studio.vpnalpha.databinding.FragmentMenuBinding
 import com.alpharays.apps.studio.vpnalpha.dialogs.RateDialog
 import com.alpharays.apps.studio.vpnalpha.view.activites.SubscriptionActivity
 import com.alpharays.apps.studio.vpnalpha.view.activites.faq_activity
 import com.alpharays.apps.studio.vpnalpha.view.activites.loadingWebData
+import com.facebook.ads.*
+
 
 class MenuFragment : Fragment() {
 

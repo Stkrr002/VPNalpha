@@ -1,2 +1,2 @@
 include ':app', ':vpnLib'
-rootProject.name='Liberty VPN'
+rootProject.name='VPNalpha'

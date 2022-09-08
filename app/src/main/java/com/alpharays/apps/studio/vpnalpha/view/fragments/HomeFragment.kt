@@ -1,4 +1,4 @@
-package com.alpharays.apps.studio.vpnalpha.view.fragments
+ package com.alpharays.apps.studio.vpnalpha.view.fragments
 
 import android.app.Activity
 import android.content.BroadcastReceiver
@@ -20,19 +20,20 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
-import com.facebook.ads.*
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.FullScreenContentCallback
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
 import com.alpharays.apps.studio.vpnalpha.AppSettings
 import com.alpharays.apps.studio.vpnalpha.CheckInternetConnection
+import com.alpharays.apps.studio.vpnalpha.R
 import com.alpharays.apps.studio.vpnalpha.SharedPreference
 import com.alpharays.apps.studio.vpnalpha.databinding.FragmentHomeBinding
 import com.alpharays.apps.studio.vpnalpha.model.Server
 import com.alpharays.apps.studio.vpnalpha.utils.toast
 import com.alpharays.apps.studio.vpnalpha.view.activites.ChangeServerActivity
 import com.alpharays.apps.studio.vpnalpha.view.activites.SubscriptionActivity
+import com.facebook.ads.*
 import de.blinkt.openvpn.OpenVpnApi
 import de.blinkt.openvpn.core.OpenVPNService
 import de.blinkt.openvpn.core.OpenVPNThread
