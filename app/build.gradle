@@ -3,9 +3,7 @@ apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
 apply plugin: 'com.google.gms.google-services'
 apply plugin: 'com.google.firebase.crashlytics'
-apply plugin: 'kotlin-android-extensions'
-apply plugin: 'kotlin-android'
-apply plugin: 'com.android.application'
+
 
 android {
     compileSdkVersion 31

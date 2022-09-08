@@ -19,7 +19,7 @@
 
 
     <string name="app_version_text" translatable="false">Version 1.0.0</string>
-    <string name="about_app_text" translatable="false">You are using Liberty VPN build v1.0.0, Enjoy unlimited bandwidth with stable connection and a lot of servers to choose from. No limits, No restrictions</string>
+    <string name="about_app_text" translatable="false">You are using VPNalpha build v1.0.0, Enjoy unlimited bandwidth with stable connection and a lot of servers to choose from. No limits, No restrictions</string>
 
     <string name="app_name_premium">VPNalpha Premium</string>
     <string name="privacy_policy_title" translatable="false">Privacy Policy</string>
@@ -69,7 +69,7 @@
     <string name="one_year_text">1 Year</string>
 
     <!--rating dialog-->
-    <string name="feedback_email_subject" translatable="false">Liberty VPN</string>
+    <string name="feedback_email_subject" translatable="false">VPNalpha</string>
 
     <string name="rating_promote">We are working hard for a better user experience. \nWe\'d greatly appreciate if you can rate us.</string>
     <string name="rating_title_1">Oh, no!</string>
@@ -98,11 +98,11 @@
         <item>We use SSL to encrypt your internet data. Your data is undecipherable to prying eyes while in route. Moreover, we do not collect, log, store, share any data log belonging to users, and please feel safe to use our product.</item>
         <item>Click the \"Start\" button on the middle place of the home page. Then please “Trust this application” if your device asks for this permission.</item>
         <item>Click the same connect button on the home page to disconnect from VPN server.</item>
-        <item>Connection problem is affected by many factors, please update to the latest version, refresh the server list and connect to the top server for few times. If it still does not work for you, please contact us via libertyapps.studio@gmail.com and provide us with your country and network provider name.</item>
+        <item>Connection problem is affected by many factors, please update to the latest version, refresh the server list and connect to the top server for few times. If it still does not work for you, please contact us via alpharaysofficial@gmail.com and provide us with your country and network provider name.</item>
         <item>Choose the location you want in the server list, then VPN will connect to the location you click.</item>
         <item>Please contact and provide us the detail website address that you want to unblock via libertyapps.studio@gmail.com We will collect your feedback and improve our product.</item>
         <item>First of all, check your network connection. Then make sure you\'ve disable battery optimization for Liberty VPN in android\'s battery settings.</item>
-        <item>In most Android devices, Open Settings > Battery > Battery Optimization > Select all apps in drop down menu. Find Liberty VPN and set it "Don\'t optimize".In Huawei devices, Open Setting > Battery > Launch, Find Liberty VPN in the apps list,switch off to "Manage manually", enable "Auto Lunch" and "Run in background". Or you can find battery setting in "Protected Apps".In Samsung devices, Open settings > Battery > App Power Saving > Details, find Liberty VPN in the apps list and disable it.In other devices, you may find it in Setting > Battery > as "Background activity" or "Protected Apps"</item>
+        <item>In most Android devices, Open Settings > Battery > Battery Optimization > Select all apps in drop down menu. Find VPNalpha and set it "Don\'t optimize".In Huawei devices, Open Setting > Battery > Launch, Find  VPNalpha in the apps list,switch off to "Manage manually", enable "Auto Lunch" and "Run in background". Or you can find battery setting in "Protected Apps".In Samsung devices, Open settings > Battery > App Power Saving > Details, find VPNalpha in the apps list and disable it.In other devices, you may find it in Setting > Battery > as "Background activity" or "Protected Apps"</item>
         <item>Subscriptions on Google Play renew automatically unless you unsubscribe, if you want to unsubscribe, please open Google Play Store, tap Menu-Subscriptions-Tap thesubscription you want to cancel-Tap Cancel subscription. Check the details here: https://support.google.com/googleplay/answer/2476088</item>
         <item>Not cancelling your subscription before the trial period ends will not be refunded. Check the details here: https://support.google.com/googleplay/answer/2476088</item>
     </string-array>

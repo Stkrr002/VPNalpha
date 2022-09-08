@@ -7,7 +7,7 @@ import com.alpharays.apps.studio.vpnalpha.model.Server;
 
 public class SharedPreference {
 
-    private static final String APP_PREFS_NAME = "LibertyVPNPreference";
+    private static final String APP_PREFS_NAME = "VPNalphaPreference";
 
     private SharedPreferences mPreference;
     private SharedPreferences.Editor mPrefEditor;

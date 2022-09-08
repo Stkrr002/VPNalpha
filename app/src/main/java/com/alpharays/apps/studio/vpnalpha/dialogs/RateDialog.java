@@ -160,7 +160,7 @@ public class RateDialog extends Dialog implements View.OnClickListener {
 
     /*
     * Show the feedback dialog to the user
-    * to perform the feedback about the Liberty VPN.
+    * to perform the feedback about the  VPNalpha.
     * */
     private void showFeedbackDialog() {
 
