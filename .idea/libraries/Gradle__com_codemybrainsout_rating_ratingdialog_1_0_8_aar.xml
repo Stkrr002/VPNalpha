@@ -4,6 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7e57d01fcb179e5b9d295dfa508884c2/transformed/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e57d01fcb179e5b9d295dfa508884c2/transformed/jetified-ratingdialog-1.0.8/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e57d01fcb179e5b9d295dfa508884c2/transformed/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/08e87f3fe6a8663346a9e56e82f88dfe/transformed/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/08e87f3fe6a8663346a9e56e82f88dfe/transformed/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/08e87f3fe6a8663346a9e56e82f88dfe/transformed/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codemybrainsout.rating/ratingdialog/1.0.8/77c8c19d1f670e970f8e2ec4ad147f417eceff75/ratingdialog-1.0.8-javadoc.jar!/" />

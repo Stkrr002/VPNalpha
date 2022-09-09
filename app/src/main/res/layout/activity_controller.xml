@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".view.activites.ControllerActivity">
+    tools:context=".view.activites.ControllerActivity"
+    android:background="@drawable/background">
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
@@ -24,7 +25,7 @@
         android:layout_height="?actionBarSize"
         android:paddingStart="100dp"
         android:paddingEnd="100dp"
-        app:backgroundColor="@color/colorPrimary"
+        app:backgroundColor="#AC69F0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
