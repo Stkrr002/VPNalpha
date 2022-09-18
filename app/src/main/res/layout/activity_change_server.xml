@@ -42,7 +42,7 @@
                     android:layout_marginLeft="@dimen/size_10"
                     android:text="@string/select_server_text"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"
-                    android:textColor="@color/white"
+                    android:textColor="@color/whitish"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintStart_toEndOf="@+id/server_back_button"
                     app:layout_constraintTop_toTopOf="parent"
